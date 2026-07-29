@@ -1,0 +1,6 @@
+{
+  "name": "EduFlow LMS",
+  "description": "Enterprise-grade Learning Management System (EduFlow LMS) with AI Learning Assistant, course builder, interactive video player, quizzes, assignments, certificates, and student, instructor, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
